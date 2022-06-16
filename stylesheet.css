@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    align-content: center;
+}
+
+p{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+#email{
+    border-radius: 12px;
+    border-color: brown;
+    margin: auto;
+    padding: 10px;
+}
+#password{
+    border-radius: 12px;
+    border-color: antiquewhite;
+   margin: auto;
+   padding: 6px;
+    
+}
+#button{
+    color: green;
+    position: relative;
+}
