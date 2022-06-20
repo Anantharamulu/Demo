@@ -4,6 +4,7 @@
 <head>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script>
+  /* This jquery is used to Hide The Content*/
 $(document).ready(function(){
   $("p").click(function(){
     $(this).hide();
